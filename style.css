@@ -127,12 +127,12 @@ body{
 }
 
 .app-download:nth-child(1) {
-    background-image: url(img/apple-button.png);
+    background-image: url(apple-button.png);
     border-radius: 6%;
 }
 
 .app-download:nth-child(2) {
-    background-image: url(img/googleplay-button.png);
+    background-image: url(googleplay-button.png);
 }
 
 /* media queries */
